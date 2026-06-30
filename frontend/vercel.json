@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-backend-name.onrender.com/api/:path*"
+      "destination": "https://resume-parser-backend-8ft3.onrender.com/api/:path*"
     }
   ],
   "routes": [
