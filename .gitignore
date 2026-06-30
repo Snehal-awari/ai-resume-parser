@@ -1,0 +1,29 @@
+# Maven
+**/target/
+*.jar
+*.war
+*.ear
+
+# Node.js
+**/node_modules/
+**/dist/
+**/.env
+**/.env.local
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local admin data
+backend/admin_data/
