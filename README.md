@@ -135,16 +135,13 @@ Manage users, logs, and deleted records
 
 ------------------------------------------------------
 🔗 Repository & Live Demo
-GitHub: https://github.com/yourusername/ai-resume-parser
-Live: https://your-live-link.com
+GitHub Repo: https://github.com/Snehal-awari/ai-resume-parser.git
+Live: https://ai-resume-parser-olive.vercel.app/login
 
 ------------------------------------------------------
 👨‍💻 Author
-
 Snehal Awari
-GitHub: https://github.com/yourusername
-
-
+GitHub: https://github.com/Snehal-awari
 
 ------------------------------------------------------
 ⭐ Final Note
